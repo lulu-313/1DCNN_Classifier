@@ -4,9 +4,9 @@
 模型:<br>
 ---
 一维卷积（512 fliter——length=5）——RELU激活层——平均池化层<br>
-      一维卷积（128 fliter——length=5）——RELU激活层——最大池化层<br>  
-      两个全链接层（2048/1024）<br>  
-      softmax函数进行多分类<br>   
+一维卷积（128 fliter——length=5）——RELU激活层——最大池化层<br>
+两个全链接层（2048/1024）<br>
+softmax函数进行多分类<br>   
      
 实验数据：
 ---
