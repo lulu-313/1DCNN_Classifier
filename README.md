@@ -18,5 +18,5 @@ softmax函数进行多分类<br>
 ![image](https://github.com/lulu-313/1DCNN_Classifier/blob/master/image/loss.png)<br>
 
 交叉检验正确率与损失曲线：<br>
-https://github.com/lulu-313/1DCNN_Classifier/blob/master/image/val_acc.png
-https://github.com/lulu-313/1DCNN_Classifier/blob/master/image/val_loss.png
+![image](https://github.com/lulu-313/1DCNN_Classifier/blob/master/image/val_acc.png)
+![image](https://github.com/lulu-313/1DCNN_Classifier/blob/master/image/val_loss.png)<br>
