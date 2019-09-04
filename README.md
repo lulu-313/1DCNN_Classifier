@@ -11,3 +11,12 @@ softmax函数进行多分类<br>
 实验数据：
 ---
 三种油藏类型的350口井，共44400条数据；分别为均质类型 200个；径向复合类型 100个；双孔拟稳定 50个   
+
+
+正确率与损失曲线：<br>
+https://github.com/lulu-313/1DCNN_Classifier/blob/master/image/acc.png
+https://github.com/lulu-313/1DCNN_Classifier/blob/master/image/loss.png
+
+交叉检验正确率与损失曲线：<br>
+https://github.com/lulu-313/1DCNN_Classifier/blob/master/image/val_acc.png
+https://github.com/lulu-313/1DCNN_Classifier/blob/master/image/val_loss.png
